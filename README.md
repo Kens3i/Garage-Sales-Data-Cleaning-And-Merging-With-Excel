@@ -22,13 +22,12 @@ When we fetch the data from various software using APIs or in-house tools, the d
 
 ## Workflow
 
-- Highlighted the duplicate data and then **removed** them.
-- Checked for any spelling mistakes and corrected them accordingly using the "Find and Replace" feature.
-- Took care of the blank cells using the "Go To Special" feature.
-- The date and time were in the same cell so I separated them using the "Text To Columns" feature and then I converted the dates from general to the corrected date data type.
-- Took care of the blank cells using the "Go To Special" feature.
-- Merged the price sheet with the main sheet, which denotes the price of each and every service using xlookup formula.
-- Merged the car details sheet with the main sheet, which denotes all the details of the car that is being serviced using the xlookup formula.
+- **Highlighted** the duplicate data and then **removed** them.
+- **Checked** for any **spelling mistakes** and corrected them accordingly using the **"Find and Replace"** feature.
+- Took care of the **blank cells** using the **"Go To Special"** feature.
+- The **date and time were in the same cell** so I separated them using the **"Text To Columns"** feature and then I **converted** the **dates** from **general** to the **corrected date data type**.
+- **Merged the price sheet** with the main sheet, which denotes the price of each and every service using **xlookup formula**.
+- **Merged the car details sheet** with the main sheet, which denotes all the details of the car that is being serviced using the **xlookup formula**.
 
 
 ## Challenges-I-Faced
