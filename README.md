@@ -1,7 +1,7 @@
 # GARAGE SERVICE SALES DATA CLEANING + MERGING USING EXCEL
 ## Raw Data vs Clean Data
 
-![](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel/blob/main/Images/Automotive%20Data%20Cleaning.png?raw=true)
+<a href="https://freeimage.host/"><img src="https://iili.io/Hxqan1f.png" alt="Hxqan1f.png" border="0"></a>
 
 ## Table of Contents
 
@@ -35,14 +35,11 @@ Had to clean the data in less than 3 hours of time because of the deadline so th
 
 ## Before and After Images
 ### Before
-![](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel/blob/main/Images/raw%20data%20Garage%20Sales%20v3.PNG?raw=true)
-
-![](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel/blob/main/Images/raw%20data%20Garage%20Sales%20v2.PNG?raw=true)
-
-![](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel/blob/main/Images/raw%20data%20Garage%20Sales%20v1.PNG?raw=true)
+<a href="https://freeimage.host/"><img src="https://iili.io/Hxqaqss.png" alt="Hxqaqss.png" border="0"></a>
 
 ### After
-![](https://github.com/Kens3i/Garage-Sales-Data-Cleaning-And-Merging-With-Excel/blob/main/Images/Clean%20Data%20Garage%20Sales%20(1).PNG?raw=true)
+<a href="https://freeimage.host/"><img src="https://iili.io/HxqaCqG.png" alt="HxqaCqG.png" border="0"></a>
+
 
 ### Thank You For Spending Your Precious Time Going Through This Project!
 ### If You Find Any Value In This Project Or Gained Something New Please Do Give A ⭐.
